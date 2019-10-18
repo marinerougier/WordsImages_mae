@@ -802,7 +802,7 @@ var avoidance_key = "C";
     position: 1,
     background_images: background,
     font_sizes:  word_sizes,
-    approach_key: "f",
+    approach_key: "d",
     stim_movement: "approach",
     html_when_wrong: '<span style="color: red; font-size: 80px">&times;</span>',
     force_correct_key_press: true,
