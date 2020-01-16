@@ -1555,7 +1555,7 @@ var avoidance_key = "C";
     stimulus:
       "<p class='instructions'>You will now be redirected to Prolific Academic's website " +
       "within seconds.<p>" +
-      "<p class='instructions'>If you are not redirected, please click <a href='https://app.prolific.co/submissions/complete?cc=LC6V3R64'>here</a>.<p>",
+      "<p class='instructions'>If you are not redirected, please click <a href='https://app.prolific.ac/submissions/complete?cc=MEMHX5XQ'>here</a>.<p>",
     choices: jsPsych.NO_KEYS
   };
   // procedure ----------------------------------------------------------------------------
@@ -1669,7 +1669,7 @@ var avoidance_key = "C";
         },
       on_finish: function() {
           saving_browser_events(completion = true);
-          window.location.href = "https://app.prolific.co/submissions/complete?cc=LC6V3R64";
+          window.location.href = "https://app.prolific.ac/submissions/complete?cc=MEMHX5XQ";
       }
     });
   }
