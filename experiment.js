@@ -916,7 +916,7 @@ var avoidance_key = "C";
     type: "html-button-response",
     stimulus:
       "<p class='instructions'>Before going further, please note that this study should take " +
-      "15-17 minutes to complete.</p>",
+      "17 minutes to complete.</p>",
     choices: ['I have enough time', 'I do not have enough time'],
   };
 
